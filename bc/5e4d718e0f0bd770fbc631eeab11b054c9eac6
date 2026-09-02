@@ -1,0 +1,29 @@
+.gitignore
+  s_d5633f182bfab0::t_6c9d5d9c64a7a4 1-2
+.mcp.json.example
+  s_d5633f182bfab0::t_599d0a96349c43 1-8
+LICENSE
+  s_d5633f182bfab0::t_d5ea12682c5838 1-21
+README.md
+  s_d5633f182bfab0::t_37f971b42744fd 1-113
+bin/aios-mcp.js
+  s_d5633f182bfab0::t_979aa8ef99c733 1-21
+package.json
+  s_d5633f182bfab0::t_e4620f8678e864 1-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "bc5e4d718e0f0bd770fbc631eeab11b054c9eac6",
+  "prompts": {},
+  "sessions": {
+    "s_d5633f182bfab0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "53668d83-8474-4de5-a269-9268bbc1a70d",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Mitch Gunnels <77034336+mitch-gunnels@users.noreply.github.com>"
+    }
+  }
+}
