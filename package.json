@@ -1,0 +1,27 @@
+{
+  "name": "@cvlsoft/aios-mcp",
+  "version": "0.1.0",
+  "description": "Connect AIOS to any MCP client. Thin stdio bridge to the remote AIOS MCP server for clients that cannot speak streamable HTTP directly.",
+  "license": "MIT",
+  "bin": {
+    "aios-mcp": "bin/aios-mcp.js"
+  },
+  "files": [
+    "bin",
+    "README.md"
+  ],
+  "dependencies": {
+    "mcp-remote": "^0.1.0"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "aios",
+    "workflows",
+    "agents"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cvlSoft/aios-mcp"
+  }
+}

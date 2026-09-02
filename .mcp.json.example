@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aios-builder": {
+      "type": "http",
+      "url": "https://aios-api.cvlsoft.net/mcp/builder"
+    }
+  }
+}
