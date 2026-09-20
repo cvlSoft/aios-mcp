@@ -10,8 +10,11 @@
     "bin",
     "README.md"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
-    "mcp-remote": "^0.1.0"
+    "mcp-remote": "^0.1.16"
   },
   "keywords": [
     "mcp",
@@ -20,8 +23,9 @@
     "workflows",
     "agents"
   ],
+  "homepage": "https://github.com/cvlSoft/aios-mcp",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cvlSoft/aios-mcp"
+    "url": "https://github.com/cvlSoft/aios-mcp.git"
   }
 }
